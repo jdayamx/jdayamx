@@ -11,4 +11,4 @@ I am an PHP developer
 - linux
 - jQuery
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jdayamx&show_icons=true">
+[![Stats](https://github-readme-stats.vercel.app/api?username=jdayamx&count_private=true&show_icons=true)](https://github.com/jdayamx/)
