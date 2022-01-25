@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jdayamx&show_icons=true">
+
 # Hi there 👋
 
 I am an PHP developer
@@ -11,5 +13,3 @@ I am an PHP developer
 - nginx
 - linux
 - jQuery
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=jdayamx&count_private=true&show_icons=true&theme=dracula)](https://github.com/jdayamx/)
