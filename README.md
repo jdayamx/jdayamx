@@ -1,14 +1,44 @@
 # Hi there 👋
 
-I am an PHP developer
+I am an Web developer
 ## In the process of developing various kinds of projects, I encountered:
-- PHP
-- MySQL
-- html
-- css
-- js
-- nginx
-- linux
-- jQuery
+<details>
+  <summary>PHP</summary>
+  
+  ###
+  
+  * [Yii](https://github.com/yiisoft/yii)
+  * [Yii2](https://github.com/yiisoft/yii2)
+  * [Laravel](https://github.com/laravel/laravel)
+</details>
+<details>
+  <summary>SQL</summary>
+  
+  ###
+  
+  * [SQLite](https://github.com/sqlite/sqlite)
+  * [MySQL](https://github.com/mysql)
+  * MsSQL
+  * PostgreSQL
+</details>
+<details>
+  <summary>Web</summary>
+  
+  ###
+  
+  * Html
+  * Html5
+  * Css
+  * Css3
+  * JS
+</details>
+<details>
+  <summary>DevOps</summary>
+  
+  ###
+  
+  * Linux
+  * Windows
+</details>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=jdayamx&count_private=true&show_icons=true)](https://github.com/jdayamx/)
