@@ -41,4 +41,14 @@ I am an Web developer
   * Windows
 </details>
 
+<details>
+  <summary>Other</summary>
+  
+  ###
+  
+  * Arduino
+  * Radio hobby
+  * Walking with a metal detector
+</details>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=jdayamx&count_private=true&show_icons=true)](https://github.com/jdayamx/)
