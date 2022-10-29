@@ -58,6 +58,7 @@ I am an Web developer
 
 ###
 <p align="center">
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftest.jday.in.ua%2Fapi%2Fghimg%2Ftest">
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftest.jday.in.ua%2Fapi%2Fghimg%2Fworking">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftest.jday.in.ua%2Fapi%2Fghimg%2Ftest">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftest.jday.in.ua%2Fapi%2Fghimg%2Fworking">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftest.jday.in.ua%2Fapi%2Fghimg%2Fwatchtv">
 </p>
