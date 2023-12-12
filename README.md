@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am an Web developer
+I am an Full Stack Developer
 ## In the process of developing various kinds of projects, I encountered:
 <details>
   <summary>PHP</summary>
