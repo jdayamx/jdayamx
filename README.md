@@ -58,10 +58,10 @@ I am an Full Stack Developer
 
 ###
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftest.jday.in.ua%2Fapi%2Fghimg%2Fuk">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fjday.in.ua%2Fapi%2Fghimg%2Fuk">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jdayamx.jdayamx&">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftest.jday.in.ua%2Fapi%2Fghimg%2Ftest">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftest.jday.in.ua%2Fapi%2Fghimg%2Fworking">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftest.jday.in.ua%2Fapi%2Fghimg%2Fwatchtv">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fjday.in.ua%2Fapi%2Fghimg%2Ftest">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fjday.in.ua%2Fapi%2Fghimg%2Fworking">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fjday.in.ua%2Fapi%2Fghimg%2Fwatchtv">
   <a href="https://bmc.link/jday"><img alt="Static Badge" src="https://img.shields.io/badge/Buy_Me-a_Coffee-yellow"></a>
 </p>
