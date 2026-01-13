@@ -9,6 +9,9 @@ I am an Full Stack Developer
 ![Yii](https://img.shields.io/badge/Yii-0C5E8C?style=for-the-badge&logo=yii&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-0C5E8C?style=for-the-badge&logo=yii&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄 Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
