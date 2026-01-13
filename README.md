@@ -30,7 +30,7 @@ I am an Full Stack Developer
 ![Radio](https://img.shields.io/badge/Radio%20Hobby-555555?style=for-the-badge)
 ![Metal Detector](https://img.shields.io/badge/Metal%20Detector-8B5A2B?style=for-the-badge)
 
-###
+---
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fjday.in.ua%2Fapi%2Fghimg%2Fuk">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fjday.in.ua%2Fapi%2Fghimg%2Ftest">
