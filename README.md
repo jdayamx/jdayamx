@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I am an Full Stack Developer
+(Hard times create smart people, smart people create easy times, easy times create stupid people, stupid people create hard times)
 
 ## 🛠 Skills & Technologies
 
